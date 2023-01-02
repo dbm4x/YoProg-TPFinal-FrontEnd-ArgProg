@@ -13,8 +13,8 @@ const httpOptions = {
 export class PortafolioService {
   //api_login_url = 'https://afternoon-castle-41460.herokuapp.com/api/auth/signin';
   //api_url = 'https://afternoon-castle-41460.herokuapp.com/api/';
-  api_login_url = 'https://foolish-wilhelmine-h04x.koyeb.app/api/auth/signin';
-  api_url = 'https://foolish-wilhelmine-h04x.koyeb.app/api/';
+  api_login_url = 'https://proud-grass-9557.fly.dev/api/auth/signin';
+  api_url = 'https://proud-grass-9557.fly.dev/api/';
 
   currentUserSubject: BehaviorSubject<any>;
 
